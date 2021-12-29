@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fruj5BUlB1nS8F9fKhji9aDA6RMDv95/wANtl+pAAjGFZX2ChQFgBCYvR7tl5fSR2eoNmHkk0Rt2D1FrHpII9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\DIO\\PROJETO2\\DIO.SERIES.THAUAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

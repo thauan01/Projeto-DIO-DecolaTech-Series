@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.exe
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.deps.json
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.runtimeconfig.json
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.dll
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\ref\DIO.SERIES.THAUAN.dll
+C:\Users\Asus\Desktop\DIO\PROJETO2\bin\Debug\net5.0\DIO.SERIES.THAUAN.pdb
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.dll
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\ref\DIO.SERIES.THAUAN.dll
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.pdb
+C:\Users\Asus\Desktop\DIO\PROJETO2\obj\Debug\net5.0\DIO.SERIES.THAUAN.genruntimeconfig.cache

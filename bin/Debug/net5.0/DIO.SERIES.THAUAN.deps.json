@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO.SERIES.THAUAN/1.0.0": {
+        "runtime": {
+          "DIO.SERIES.THAUAN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.SERIES.THAUAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
